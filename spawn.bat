@@ -1,0 +1,8 @@
+start cmd /k "main 22000"
+start cmd /k "main 22001 22000"
+start cmd /k "main 22002 22000"
+start cmd /k "main 22003 22000"
+REM start cmd /k "main 22004 22000"
+REM start cmd /k "main 22005 22000"
+REM start cmd /k "main 22006 22000"
+REM start cmd /k "main 22007 22000"
